@@ -1,6 +1,6 @@
 {
-    "name": "phoenix/listing",
-    "description": "Phoenix Item listing",
+    "name": "swathyphoenix/listing",
+    "description": "SwathyPhoenix Item listing",
     "type": "library",
     "require": {
         "illuminate/support": "8.x-dev",
@@ -12,7 +12,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Phoenix\\Listing\\": "src/"
+            "SwathyPhoenix\\Listing\\": "src/"
         }
     },
     "authors": [{

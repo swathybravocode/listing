@@ -1,6 +1,6 @@
 <?php
 
-namespace Phoenix\Listing\Providers;
+namespace SwathyPhoenix\Listing\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
