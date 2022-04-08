@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Listing\Providers;
+namespace Phoenix\Listing\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 {
-    "name": "test/listing",
-    "description": "test Item listing",
+    "name": "phoenix/listing",
+    "description": "Phoenix Item listing",
     "type": "library",
     "require": {
         "illuminate/support": "8.x-dev",
@@ -12,14 +12,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Test\\Listing\\": "src/"
+            "Phoenix\\Listing\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "swathy sunil kumar",
-            "email": "swathisunil1990@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "swathy sunil kumar",
+        "email": "swathisunil1990@gmail.com"
+    }],
     "minimum-stability": "dev"
 }
