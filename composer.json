@@ -10,6 +10,11 @@
         "phpunit/phpunit": "9.5.x-dev"
     },
     "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": ["SwathyPhoenix\\Listing\\Provider\\itemsServiceProvider"]
+        }
+    },
     "autoload": {
         "psr-4": {
             "SwathyPhoenix\\Listing\\": "src/"
